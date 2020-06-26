@@ -1,0 +1,1 @@
+## This is Single Page Application made with state management library of vue.js i.e Vuex along with Vue-Router and Laravel as Backend :)
